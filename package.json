@@ -1,6 +1,9 @@
 {
   "name": "food-recipes",
   "version": "0.0.0",
+  "author": {
+    "name": "Stefan Sandulescu"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
